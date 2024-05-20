@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/Budget-App-React/static/js/main.1530d9b0.chunk.js",
+    "main.js.map": "/Budget-App-React/static/js/main.1530d9b0.chunk.js.map",
+    "runtime-main.js": "/Budget-App-React/static/js/runtime-main.dbc98dd1.js",
+    "runtime-main.js.map": "/Budget-App-React/static/js/runtime-main.dbc98dd1.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/Budget-App-React/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.360a4eba.chunk.js": "/Budget-App-React/static/js/2.360a4eba.chunk.js",
+    "static/js/2.360a4eba.chunk.js.map": "/Budget-App-React/static/js/2.360a4eba.chunk.js.map",
+    "index.html": "/Budget-App-React/index.html",
+    "precache-manifest.b759d51426edf84461f23e79cea933c6.js": "/Budget-App-React/precache-manifest.b759d51426edf84461f23e79cea933c6.js",
+    "service-worker.js": "/Budget-App-React/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/Budget-App-React/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/js/2.360a4eba.chunk.js.LICENSE.txt": "/Budget-App-React/static/js/2.360a4eba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dbc98dd1.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.360a4eba.chunk.js",
+    "static/js/main.1530d9b0.chunk.js"
+  ]
+}
